@@ -1,0 +1,13 @@
+.table_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  width: 25%;
+  border: 1px none rgb(0, 52, 52);
+  border-right-style: solid;
+}
+
+.table_btn:last-child {
+  border-right-style: none;
+}

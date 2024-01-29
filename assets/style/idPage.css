@@ -1,0 +1,22 @@
+.id_page_container {
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.id__item {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.id__item__name {
+  color: #334155;
+  font-feature-settings: 'clig' off, 'liga' off;
+  font-size: 25px;
+  font-weight: 700;
+}
+.id__item__edit {
+  color: #334155;
+  font-feature-settings: 'clig' off, 'liga' off;
+  font-size: 20px;
+}
